@@ -1,4 +1,4 @@
-# 🚢 Adani Ports & Renewable Energy — Statistical & BI Analysis
+# 🚢 Adani Ports & Renewable Energy - Statistical & BI Analysis
 
 <div align="center">
 
